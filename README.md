@@ -14,7 +14,7 @@
 
 - 🏠 I am from Houston, TX
 
-- 🌐 I am currently on a Self-Taught journey to be a Software Engineer
+- 🌐 I am currently on a Self-Taught journey to be a Full-Stack Software Engineer (MERN)
 
 - ❗ Love being with my family and making things
 
