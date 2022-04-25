@@ -1,4 +1,7 @@
 <img src='My project.jpg' width='100%'></img>
+<p align='center'>
+  <img src='https://readme-typing-svg.herokuapp.com?size=30&color=0038AE&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Engineer;Enjoyer+of+learning;%23100Devs'>
+<p>
 
 <p align="center">
   <a href="https://twitter.com/CodingEachDay" target="_blank">
