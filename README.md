@@ -24,4 +24,4 @@
 
 ## Technologies
 
-![skills](https://skillicons.dev/icons?i=html,css,js,git,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,git,vscode&theme=light)
