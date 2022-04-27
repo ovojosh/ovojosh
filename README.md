@@ -20,7 +20,7 @@
 - 🌐 I am currently on a Self-Taught journey 
   to be a Full-Stack Software Engineer (MERN)
 
-- ❗ Love being with my family and making things
+- ❗ Love being with my family, making things, and having fun coding
 
 ## Technologies
 
