@@ -25,3 +25,5 @@
 ## Technologies
 
 ![skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,git,vscode&theme=light)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ovojosh&" alt="ovojosh" /></p>
