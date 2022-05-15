@@ -26,4 +26,4 @@
 
 ![skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,git,vscode&theme=light)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ovojosh&" alt="ovojosh" /></p>
+<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ovojosh&" alt="ovojosh" /></p>
