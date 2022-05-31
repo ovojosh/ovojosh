@@ -15,7 +15,7 @@
 
 - 👋 Hello! my name is Joshua!
 
-- 🏠 I am from Houston, TX
+- 🏠 I am from Houston, TX 
 
 - 🌐 I am currently on a Self-Taught journey 
   to be a Full-Stack Software Engineer (MERN)
