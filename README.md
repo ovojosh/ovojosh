@@ -11,14 +11,13 @@
     <img src="https://img.shields.io/badge/-Joshua Jimenez-0038AE?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
 
-## About Me
+# About Me
 
 - 👋 Hello! my name is Joshua!
 
 - 🏠 I am from Houston, TX 
 
-- 🌐 I am currently on a Self-Taught journey 
-  to be a Full-Stack Software Engineer (MERN)
+- 🌐 I am a Front-End Web Developer
 
 - ❗ Love being with my family, making things, and having fun coding
 
