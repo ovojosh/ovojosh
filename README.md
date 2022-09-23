@@ -1,6 +1,6 @@
 <img src='My project.jpg' width='100%'></img> 
 <p align='center'>
-  <img src='https://readme-typing-svg.herokuapp.com?size=30&color=f507f5&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Engineer;Enjoyer+of+learning;%23100Devs'>
+  <img src='https://readme-typing-svg.herokuapp.com?size=30&color=f507f5&center=true&vCenter=true&width=500&lines=Front-End+Software+Engineer;Enjoyer+of+learning;%23100Devs;%23Codecademy'>
 <p>
 
 <p align="center">
